@@ -15,7 +15,9 @@ Sources
 ========
 
 External packages used: googlemaps, pygeocoder
+
 https://pypi.python.org/pypi/googlemaps/
+
 https://pypi.python.org/pypi/pygeocoder
 
 
@@ -23,7 +25,9 @@ Installation
 =============
 
 From the terminal, install the 2 packages using commands below.
+
 pip install googlemaps
+
 pip install pygeocoder
 
 
